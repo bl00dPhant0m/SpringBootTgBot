@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: SpringBootTgBot
+
+telegram:
+  username: currency_info_java_bot
+  token:
